@@ -1,4 +1,9 @@
 # repo-try
 repo-try
 ali mousa abd elazeem 
-رwhere i can find git remote add origin
+where i can find git remote add origin
+ali 
+mohamed 
+abd
+ek
+elazeem
